@@ -1,6 +1,7 @@
 Here I am running a train to understand the fork concept in github
 Here I am adding a new line for test branch
 #include<stdio.h>
+#include<stdlib.h> // i have included stdlib.h again to understand the merge conflict
 Here I have removed the stdlib.h library
 typedef struct node{
 	int data;
